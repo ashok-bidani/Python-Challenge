@@ -1,0 +1,7 @@
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 69
+Approximate Sentence Count: 3
+Average Letter Count: 4.0
+Average Sentence Length: 22.666666666666668
