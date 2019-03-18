@@ -1,5 +1,5 @@
 ## Python Challenge
-Completed four python challenges, each of which involved importing text or csv files and performing analysis on or transforming the file contents. 
+Completed four python challenges, each of which involved importing text or csv files and performing analysis on or transforming the file contents. These challenges helped gain familiarity with importing data in Python, using basic Python functions and methods, and utilizing iteration.
 
 ## PyBank
  - Uses mock bank revenue data (csv).
